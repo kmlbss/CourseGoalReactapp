@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CourseGoalReactapp/static/css/main.37e0752c.css",
+    "main.js": "/CourseGoalReactapp/static/js/main.b067d5be.js",
+    "static/js/787.1147c93f.chunk.js": "/CourseGoalReactapp/static/js/787.1147c93f.chunk.js",
+    "index.html": "/CourseGoalReactapp/index.html",
+    "main.37e0752c.css.map": "/CourseGoalReactapp/static/css/main.37e0752c.css.map",
+    "main.b067d5be.js.map": "/CourseGoalReactapp/static/js/main.b067d5be.js.map",
+    "787.1147c93f.chunk.js.map": "/CourseGoalReactapp/static/js/787.1147c93f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e0752c.css",
+    "static/js/main.b067d5be.js"
+  ]
+}
